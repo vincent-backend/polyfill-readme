@@ -21,18 +21,6 @@
     <img src="https://img.shields.io/github/discussions/polyfillpolyfill/polyfill-service?logo=github&color=23ED8936" alt="Discussions" />
   </a>
 </div>
-<div>
-  
-  <a href="https://github.com/Xhofe/alist/releases">
-    <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
-  </a>
-  <a href="https://hub.docker.com/r/xhofe/alist">
-    <img src="https://img.shields.io/docker/pulls/xhofe/alist?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />
-  </a>
-  <a href="https://alist.nn.ci/guide/sponsor.html">
-    <img src="https://img.shields.io/badge/%24-sponsor-F87171.svg" alt="sponsor" />
-  </a>
-</div>
 </div>
 
 ##
