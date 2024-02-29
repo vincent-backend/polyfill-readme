@@ -13,17 +13,9 @@
   <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
     <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
   </a> 
-  <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
-    <img src="https://badges.crowdin.net/alist/localized.svg">
-  </a> 
 </div>
 <div>
-  <a href="https://github.com/Xhofe/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://discord.gg/F4ymsH4xv2">
-    <img src="https://img.shields.io/discord/1018870125102895134?logo=discord" alt="discussions" />
-  </a>
+  
   <a href="https://github.com/Xhofe/alist/releases">
     <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
   </a>
