@@ -5,7 +5,7 @@
 <div>
 
   <a href="./LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
+    <img src="https://img.shields.io/github/license/polyfillpolyfill/polyfill-service?logo=github" alt="License" />
   </a>
   <a href=".github/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRS Badge" />
