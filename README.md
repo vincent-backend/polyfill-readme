@@ -11,15 +11,15 @@
   <a href="./LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
   </a>
-  <a href="https://github.com/Xhofe/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?branch=main" alt="Build status" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/releases">
+  <a href=".github/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRS Badge" />
+  </a> 
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
     <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
-  </a>
+  </a> 
   <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
     <img src="https://badges.crowdin.net/alist/localized.svg">
-  </a>
+  </a> 
 </div>
 <div>
   <a href="https://github.com/Xhofe/alist/discussions">
