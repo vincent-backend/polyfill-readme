@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1><a href="https://polyfill.io">Polyfill.io</a><h1>
-  
+  <a href="https://polyfill.io"><h1>Polyfill.io<h1></a>
+
   <p><em>Polyfill.io</em> is a service which makes web development less frustrating by selectively polyfilling just what the browser needs. <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</p> 
 <div>
 
