@@ -1,6 +1,8 @@
 
 <div align="center">
   <h1><a href="https://polyfill.io">Polyfill.io</a></h1>
+
+  <a href="https://polyfill.io"><img height="100px" alt="logo" src="https://polyfill.io/img/logo.svg"/></a>
   
   <h3><em>Polyfill.io</em> is a service which makes web development less frustrating by selectively polyfilling just what the browser needs. <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</h3> 
 <div>
@@ -23,9 +25,12 @@
   <a href="https://github.com/polyfillpolyfill/polyfill-service/stargazers">
     <img src="https://img.shields.io/github/stars/polyfillpolyfill/polyfill-service?style=plastic&logo=github&color=%23FFAC2D" alt="Stars" />
   </a>
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/watchers">
+    <img src="https://img.shields.io/github/forks/polyfillpolyfill/polyfill-service?style=plastic&logo=github&color=%236C6C6C" alt="Watching" />
+  </a>
   <a href="https://github.com/polyfillpolyfill/polyfill-service/forks">
     <img src="https://img.shields.io/github/forks/polyfillpolyfill/polyfill-service?style=plastic&logo=github&color=%236C6C6C" alt="Foks" />
-  </a>
+    
 </div>
 </div>
 
