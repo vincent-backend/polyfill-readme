@@ -20,6 +20,12 @@
   <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
     <img src="https://img.shields.io/github/discussions/polyfillpolyfill/polyfill-service?logo=github&color=23ED8936" alt="Discussions" />
   </a>
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/stargazers">
+    <img src="https://img.shields.io/github/stars/polyfillpolyfill/polyfill-service?style=plastic&logo=github&color=%23FFAC2D" alt="Stars" />
+  </a>
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/forks">
+    <img src="https://img.shields.io/github/forks/polyfillpolyfill/polyfill-service?style=plastic&logo=github&color=%236C6C6C" alt="Foks" />
+  </a>
 </div>
 </div>
 
