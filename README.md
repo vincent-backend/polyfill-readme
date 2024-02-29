@@ -1,13 +1,15 @@
 
-# [Polyfill.io][website] &middot; [![license][license-badge]][license] [![PRs Welcome][pull-requests-badge]][contributing guide]
+<div align="center">
+  <a href="https://polyfill.io"><h1>Polyfill.io</h1></a>
+  <p><em>Polyfill.io</em> is a service which makes web development less frustrating by selectively polyfilling just what the browser needs.<br/>
+    <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</p> 
+<div>
 
---
+ [![license][license-badge]][license] [![PRs Welcome][pull-requests-badge]][contributing guide]
 
-  <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
-    <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
-  </a>
-  <a href="https://github.com/Xhofe/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Xhofe/alist" alt="License" />
+
+  <a href="./LICENSE.md">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
   </a>
   <a href="https://github.com/Xhofe/alist/actions?query=workflow%3ABuild">
     <img src="https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?branch=main" alt="Build status" />
@@ -37,9 +39,8 @@
   </a>
 </div>
 </div>
----
-Polyfill.io is a service which makes web development less frustrating by selectively polyfilling just what the browser needs.
-Polyfill.io reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.
+
+##
 
 ## Documentation
 
