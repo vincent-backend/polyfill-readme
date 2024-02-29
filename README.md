@@ -13,7 +13,13 @@
   </a> 
   <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
     <img src="https://img.shields.io/github/v/release/polyfillpolyfill/polyfill-service?logo=github" alt="latest version" />
-  </a> 
+  </a>
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
+    <img src="https://img.shields.io/github/downloads/polyfillpolyfill/polyfill-service/total?logo=github&color=239F7AEA" alt="Downloads" />
+  </a>
+  <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
+    <img src="https://img.shields.io/github/discussions/polyfillpolyfill/polyfill-service?logo=github&color=23ED8936" alt="Discussions" />
+  </a>
 </div>
 <div>
   
