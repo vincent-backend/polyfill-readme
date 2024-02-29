@@ -2,7 +2,7 @@
 <div align="center">
   <h1><a href="https://polyfill.io">Polyfill.io</a></h1>
   
-  <h5><em>Polyfill.io</em> is a service which makes web development less frustrating by selectively polyfilling just what the browser needs. <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</h5> 
+  <h4><em>Polyfill.io</em> is a service which makes web development less frustrating by selectively polyfilling just what the browser needs. <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</h4> 
 <div>
 
   <a href="./LICENSE.md">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRS Badge" />
   </a> 
   <a href="https://github.com/polyfillpolyfill/polyfill-service/releases">
-    <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
+    <img src="https://img.shields.io/github/v/release/polyfillpolyfill/polyfill-service?logo=github" alt="latest version" />
   </a> 
 </div>
 <div>
