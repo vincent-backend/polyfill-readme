@@ -1,7 +1,7 @@
 
 # [Polyfill.io][website] &middot; [![license][license-badge]][license] [![PRs Welcome][pull-requests-badge]][contributing guide]
 
--
+--
 
   <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
     <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
