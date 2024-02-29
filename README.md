@@ -5,9 +5,6 @@
     <em>Polyfill.io</em> reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser.</p> 
 <div>
 
- [![license][license-badge]][license] [![PRs Welcome][pull-requests-badge]][contributing guide]
-
-
   <a href="./LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
   </a>
