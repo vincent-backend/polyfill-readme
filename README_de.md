@@ -43,9 +43,9 @@ English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Vi�
 Die Dokumentation zu Polyfill.io befindet sich [auf der Website][Website].
 
 
-## [Beitrag leisten][Beitrag leisten]
+## [Beitrag leisten][contributing guide]
 
-Lesen Sie unseren [Leitfaden für Mitwirkende], um mehr über unseren Entwicklungsprozess zu erfahren, wie Sie Fehlerbehebungen und Verbesserungen vorschlagen und wie Sie Ihre Änderungen erstellen und testen.
+Lesen Sie unseren [contributing guide], um mehr über unseren Entwicklungsprozess zu erfahren, wie Sie Fehlerbehebungen und Verbesserungen vorschlagen und wie Sie Ihre Änderungen erstellen und testen.
 
 ## Selbsthosting
 
@@ -54,7 +54,7 @@ Lesen Sie unseren [Leitfaden für Mitwirkende], um mehr über unseren Entwicklun
 
 ## Lizenz
 
-Polyfill.io ist unter den Bedingungen der [MIT-Lizenz][Lizenz] lizenziert. Mitwirkende müssen unsere [Beitragsbedingungen] akzeptieren.
+Polyfill.io ist unter den Bedingungen der [MIT-Lizenz][license] lizenziert. Mitwirkende müssen unsere [contribution terms] akzeptieren.
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md

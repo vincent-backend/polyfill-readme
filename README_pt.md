@@ -40,10 +40,10 @@ English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Vi�
 
 ## Documentação
 
-A documentação do Polyfill.io está [no site][site].
+A documentação do Polyfill.io está [no site][website].
 
 
-## [Contribuindo][guia de contribuição]
+## [Contribuindo][contributing guide]
 
 Leia nosso [guia de contribuição] para saber mais sobre nosso processo de desenvolvimento, como propor correções de bugs e melhorias e como construir e testar suas alterações.
 
@@ -54,7 +54,7 @@ Leia nosso [guia de contribuição] para saber mais sobre nosso processo de dese
 
 ## Licença
 
-Polyfill.io está licenciado sob os termos da [licença MIT][licença]. Os contribuidores devem aceitar nossos [termos de contribuição].
+Polyfill.io está licenciado sob os termos da [licença MIT][license]. Os contribuidores devem aceitar nossos [contribution terms].
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md
