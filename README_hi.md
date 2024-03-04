@@ -40,7 +40,7 @@
 
 ## Documentation
 
-Polyfill.io दस्तावेज़ [वेबसाइट पर] [website] पर है.
+Polyfill.io दस्तावेज़ [वेबसाइट पर][website] पर है.
 
 
 ## [योगदान][contributing guide]
