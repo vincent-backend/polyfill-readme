@@ -36,7 +36,7 @@
 
 ##
 
-[English](./README.md) | [中文](./README_cn.md) | 日本語
+[English](./README.md) | [中文](./README_cn.md) | 日本語 | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [বাংলা](./README_bn.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
 
 ## ドキュメンテーション
 
@@ -45,7 +45,7 @@ Polyfill.io のドキュメントは [Web サイト上][website] にあります
 
 ## [貢献する][contributing guide]
 
-[contributing guide] を読んで、開発プロセス、バグ修正と改善を提案する方法、変更をビルドしてテストする方法について学びます。
+[貢献ガイド][contributing guide] を読んで、開発プロセス、バグ修正と改善を提案する方法、変更をビルドしてテストする方法について学びます。
 
 ## セルフホスティング
 

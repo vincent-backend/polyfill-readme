@@ -36,7 +36,7 @@
 
 ##
 
-[English](./README.md) | 中文 | [日本語](./README_ja.md)
+[English](./README.md) | 中文 | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [বাংলা](./README_bn.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
 
 ## 文档
 
@@ -46,7 +46,7 @@ Polyfill.io 文档位于[网站上][website]。
 
 ## [贡献][contributing guide]
 
-阅读我们的[contributing guide]，了解我们的开发流程、如何提出错误修复和改进，以及如何构建和测试您的更改。
+阅读我们的[贡献指南][contributing guide]，了解我们的开发流程、如何提出错误修复和改进，以及如何构建和测试您的更改。
 
 ## 自托管
 
@@ -55,7 +55,7 @@ Polyfill.io 文档位于[网站上][website]。
 
 ## 执照
 
-Polyfill.io 根据 [MIT 许可证][license] 的条款获得许可。贡献者必须接受我们的[contribution terms]。
+Polyfill.io 根据 [MIT 许可证][license] 的条款获得许可。贡献者必须接受我们的[贡献条款][contribution terms]。
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md

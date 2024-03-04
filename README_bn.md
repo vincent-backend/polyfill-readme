@@ -36,16 +36,16 @@
 
 ##
 
-English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [বাংলা](./README_bn.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
+[English](./README.md) | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | বাংলা | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
 
 ## ডকুমেন্টেশন
 
-Polyfill.io ডকুমেন্টেশন [ওয়েবসাইট] [website]।
+Polyfill.io ডকুমেন্টেশন [ওয়েবসাইট] [website]
 
 
 ## [অবদান করা] [contributing guide]
 
-আমাদের ডেভেলপমেন্ট প্রক্রিয়া, কিভাবে বাগফিক্স এবং উন্নতির প্রস্তাব করতে হয় এবং কিভাবে আপনার পরিবর্তনগুলি তৈরি এবং পরীক্ষা করতে হয় সে সম্পর্কে জানতে আমাদের [contributing guide] পড়ুন।
+আমাদের ডেভেলপমেন্ট প্রক্রিয়া, কিভাবে বাগফিক্স এবং উন্নতির প্রস্তাব করতে হয় এবং কিভাবে আপনার পরিবর্তনগুলি তৈরি এবং পরীক্ষা করতে হয় সে সম্পর্কে জানতে আমাদের [অবদানকারী নির্দেশিকা][contributing guide] পড়ুন।
 
 ## স্ব-হোস্টিং
 
@@ -54,7 +54,7 @@ Polyfill.io ডকুমেন্টেশন [ওয়েবসাইট] [web
 
 ## লাইসেন্স
 
-Polyfill.io [MIT লাইসেন্স][license] এর শর্তাবলীর অধীনে লাইসেন্সপ্রাপ্ত। অবদানকারীদের অবশ্যই আমাদের [contribution terms] গ্রহণ করতে হবে।
+Polyfill.io [MIT লাইসেন্স][license] এর শর্তাবলীর অধীনে লাইসেন্সপ্রাপ্ত। অবদানকারীদের অবশ্যই আমাদের [অবদান শর্তাবলী][contribution terms] গ্রহণ করতে হবে।
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md

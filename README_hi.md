@@ -36,7 +36,7 @@
 
 ##
 
-English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [Arabic](./README_ar.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
+[English](./README.md) | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [Arabic](./README_ar.md) | [Deutsch](./README_de.md) | हिंदी
 
 ## Documentation
 
@@ -45,7 +45,7 @@ Polyfill.io दस्तावेज़ [वेबसाइट पर] [website]
 
 ## [योगदान][contributing guide]
 
-हमारी विकास प्रक्रिया, बग फिक्स और सुधारों का प्रस्ताव कैसे करें, और अपने परिवर्तनों का निर्माण और परीक्षण कैसे करें, इसके बारे में जानने के लिए हमारी [contributing guide] पढ़ें।
+हमारी विकास प्रक्रिया, बग फिक्स और सुधारों का प्रस्ताव कैसे करें, और अपने परिवर्तनों का निर्माण और परीक्षण कैसे करें, इसके बारे में जानने के लिए हमारी [योगदान मार्गदर्शिका][contributing guide] पढ़ें।
 
 ## स्व की मेजबानी
 
@@ -54,7 +54,7 @@ Polyfill.io दस्तावेज़ [वेबसाइट पर] [website]
 
 ## लाइसेंस
 
-Polyfill.io को [MIT लाइसेंस][license] की शर्तों के तहत लाइसेंस प्राप्त है। योगदानकर्ताओं को हमारी [contribution terms] को स्वीकार करना होगा।
+Polyfill.io को [MIT लाइसेंस][license] की शर्तों के तहत लाइसेंस प्राप्त है। योगदानकर्ताओं को हमारी [योगदान शर्तों][contribution terms] को स्वीकार करना होगा।
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md

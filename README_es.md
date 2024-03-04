@@ -36,7 +36,7 @@
 
 ##
 
-English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | [española](./README_es.md) | [française](./README_fr.md) | [Português](./README_pt.md) | [Arabic](./README_ar.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
+[English](./README.md) | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Tiếng Việt](./README_vt.md) | española | [française](./README_fr.md) | [Português](./README_pt.md) | [Arabic](./README_ar.md) | [Deutsch](./README_de.md) | [हिंदी](./README_hi.md)
 
 ## Documentación
 
@@ -45,7 +45,7 @@ La documentación de Polyfill.io está [en el sitio web][website].
 
 ## [Contribuyendo][contributing guide]
 
-Lea nuestra [contributing guide] para conocer nuestro proceso de desarrollo, cómo proponer correcciones de errores y mejoras, y cómo crear y probar sus cambios.
+Lea nuestra [guía de contribución][contributing guide] para conocer nuestro proceso de desarrollo, cómo proponer correcciones de errores y mejoras, y cómo crear y probar sus cambios.
 
 ## Autohospedaje
 
@@ -54,7 +54,7 @@ Lea nuestra [contributing guide] para conocer nuestro proceso de desarrollo, có
 
 ## Licencia
 
-Polyfill.io tiene licencia según los términos de la [licencia MIT][license]. Los contribuyentes deben aceptar nuestros [términos de contribución].
+Polyfill.io tiene licencia según los términos de la [licencia MIT][license]. Los contribuyentes deben aceptar nuestros [términos de contribución][contribution terms].
 
 [contributing guide]: ./.github/CONTRIBUTING.md
 [contribution terms]: ./.github/contribution_licence_agreement.md
